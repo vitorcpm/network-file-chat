@@ -7,7 +7,7 @@ This project is a simple client-server application that enables real-time messag
 - Users can request a list of currently connected clients.
 - File transfer is supported via TCP.
 - The server broadcasts notifications about user connections and file uploads.
-- Clients can gracefully disconnect from the server.
+- Clients can disconnect from the server.
 
 ## How It Works
 
